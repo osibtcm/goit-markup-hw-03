@@ -105,22 +105,23 @@ font-family: 'Raleway', sans-serif;
             color: #404BBF;
     }
     /* Header finish */
-.order {
+.order  {
     background-color: #2e2f42;
     padding-top: 188px;
-    padding-bottom: 188px;}
-    
+    padding-bottom: 188px;
+}
 .order-head {
     font-weight: 700;
-     font-size: 56px;
+    font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
     max-width: 496px;
     margin: 0 auto;
-    margin-bottom: 48px;}
-  .button-order {
+    margin-bottom: 48px;
+}
+.button-order {
     display: block;
     border: none;
     font-weight: 500;

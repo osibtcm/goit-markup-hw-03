@@ -141,6 +141,10 @@ font-family: 'Raleway', sans-serif;
 .button-order:hover {
     background-color: #404BBF;
 }
+.futures {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
 .futures-main-head {
     font-weight: 700;
     font-size: 36px;
@@ -198,6 +202,7 @@ font-family: 'Raleway', sans-serif;
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
+    margin-bottom: 72px;
 }
 .team-squad {
     display: flex;
@@ -224,6 +229,7 @@ font-family: 'Raleway', sans-serif;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    margin-bottom: 8px;
 }
 .team {
     background-color: #f4f4fd;
@@ -249,7 +255,7 @@ font-family: 'Raleway', sans-serif;
     width: calc((100% - 48) / 3);
 }
 
-.portfilio-div {
+.portfolio-div {
     border-bottom: 1px solid #e7e9fc;
     border-left: 1px solid #e7e9fc;
     border-right: 1px solid #e7e9fc;
@@ -263,6 +269,7 @@ font-family: 'Raleway', sans-serif;
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
+    margin-bottom: 72px;
  }
  .portfolio-head {
     font-weight: 500;
